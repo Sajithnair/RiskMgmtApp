@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://fed5666dtrial.launchpad.cfapps.us10.hana.ondemand.com/lcapRisk_new.Risk_newLaunchpad-1.0.0/",
+  "DeployedUTCTime": "2025-05-16T11:01:31.942Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:Risk_new-srv)))))"
+}
